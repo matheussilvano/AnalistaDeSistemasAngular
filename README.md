@@ -1,14 +1,14 @@
 # Campeões do League of Legends
 
-## Visão Geral
+## 📝 Visão Geral
 Aplicação Angular para explorar campeões do League of Legends, desenvolvida como parte de uma avaliação técnica para Analista de Sistemas Angular na Nexxera.
 
-## Pré-requisitos
+## 🛠 Pré-requisitos
 - Angular 12+
 - Node.js
 - npm
 
-## Configuração e Instalação
+## 📂 Configuração e Instalação
 
 ### Clonar Repositório
 ```bash
@@ -27,14 +27,14 @@ ng serve
 ```
 Navegue para `http://localhost:4200/`
 
-## Funcionalidades
+## ✨ Funcionalidades
 
-### Autenticação
+### 🔐 Autenticação
 - Tela de login com e-mail e senha
 - Registro de usuário
 - Autenticação segura com API backend
 
-### Gerenciamento de Campeões
+### 🏆 Gerenciamento de Campeões
 - Listagem de campeões com paginação
 - Filtro de campeões por nome
 - Visualização detalhada do campeão com:
@@ -43,21 +43,18 @@ Navegue para `http://localhost:4200/`
   - Skins disponíveis
   - Modal de prévia de skin
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 - Angular 12+
 - Angular Material
 - RxJS
 - TypeScript
 
-## Integração de API
+## 🌐 Integração de API
 - URL Base: https://lol2-4vk5.onrender.com
 - Documentação Swagger disponível
 
-## Abordagem de Desenvolvimento
+## 🔨 Abordagem de Desenvolvimento
 - Arquitetura modular
 - Componentes reutilizáveis
 - Design responsivo
 - Tratamento de erros
-
-## Implantação
-[Fornecer link de implantação, se aplicável]
